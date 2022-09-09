@@ -5,3 +5,5 @@ Otro imich board. El código no me pertenece, no soy el autor del proyecto. El g
 Este repositorio es solamente una copia de seguridad del código fuente.
 
 Todos los cŕeditos al opególico que liberó su código. Es una aplicación de Laravel 5. El archivo para generar las tablas en la base de datos es sitio.sql, y el gordo lo tenía en el directorio padre de /Dexov.
+
+Me parece que el gordo que programó esto se llama Raúl. Un saludo al gordo Raúl.
